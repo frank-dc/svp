@@ -37,7 +37,7 @@ supervisorctl svp-daphne start
 ```
 
 ## 首页
-![首页](https://github.com/FrankDC/svp/blob/master/static/image/svp/home.jpg)
+![首页](https://github.com/FrankDC/svp/blob/master/static/image/svp/home.png)
 
 ## 资产库
 ![资产库](https://github.com/FrankDC/svp/blob/master/static/image/svp/hosts.png)
