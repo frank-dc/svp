@@ -43,13 +43,18 @@ supervisorctl svp-daphne start
 ![资产库](https://github.com/FrankDC/svp/blob/master/static/image/svp/hosts.png)
 
 ## 资产组
-![资产组](https://github.com/FrankDC/svp/blob/master/static/image/svp/%E8%B5%84%E4%BA%A7%E7%BB%84.png)
+![资产组](https://github.com/FrankDC/svp/blob/master/static/image/svp/host_group.png)
 > 发布系统、日志录入部署到机器都是从资产组获取机器IP
 
 ## 物理环境发布系统
-![物理发布系统](https://github.com/FrankDC/svp/blob/master/static/image/svp/release.png)
-> 节假日控制发布权限 [系统]->[发布系统权限]
+![物理发布系统](https://github.com/FrankDC/svp/blob/master/static/image/svp/release_one.png)
+![物理发布系统](https://github.com/FrankDC/svp/blob/master/static/image/svp/release_two.png)
 
+* 发布项目管理
+![项目管理](https://github.com/FrankDC/svp/blob/master/static/image/svp/release_project1.png)
+![项目管理](https://github.com/FrankDC/svp/blob/master/static/image/svp/release_project2.png)
+
+* 节假日控制发布权限 [系统]->[发布系统权限]
 ![发布系统权限控制，以及svp后台管理](https://github.com/FrankDC/svp/blob/master/static/image/svp/admin.png)
 
 ## 容器环境发布系统
