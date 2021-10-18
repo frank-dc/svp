@@ -13,6 +13,7 @@
 * Django template
 
 > 目录结构
+
 ![目录结构](https://github.com/FrankDC/svp/blob/master/static/image/svp/directory_structure.png)
 
 ## 服务安装、启动
