@@ -13,40 +13,7 @@
 * Django template
 
 > 目录结构
-.
-├── apps
-├── celeryd
-├── celeryd.cfg
-├── cronjobs
-├── db_tools
-├── external_data
-├── extra_apps
-├── logs
-├── manage_dev.py
-├── manage.py
-├── media
-├── mix_tools
-├── README.md
-├── requirements.txt
-├── small_platform
-├── static
-├── templates
-├── test
-├── uwsgi.ini
-└── uwsgi.sh
-apps
-├── assets
-├── binary
-├── commapi
-├── container
-├── custom
-├── elk
-├── home
-├── jenkinsrelease
-├── release
-├── test_app
-├── tool
-└── users
+![目录结构](https://github.com/FrankDC/svp/blob/master/static/image/svp/directory_structure.png)
 
 ## 服务安装、启动
 > vim /etc/supervisord.d/svp-daphne.ini
