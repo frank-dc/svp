@@ -1,5 +1,5 @@
 # 仅展示用，提供部分代码，切勿转载使用！！！
-# svp可视化平台
+## svp可视化平台
 > 技术栈
 
 >> 后端
@@ -11,6 +11,42 @@
 >> 前端
 * Layui
 * Django template
+
+> 目录结构
+.
+├── apps
+├── celeryd
+├── celeryd.cfg
+├── cronjobs
+├── db_tools
+├── external_data
+├── extra_apps
+├── logs
+├── manage_dev.py
+├── manage.py
+├── media
+├── mix_tools
+├── README.md
+├── requirements.txt
+├── small_platform
+├── static
+├── templates
+├── test
+├── uwsgi.ini
+└── uwsgi.sh
+apps
+├── assets
+├── binary
+├── commapi
+├── container
+├── custom
+├── elk
+├── home
+├── jenkinsrelease
+├── release
+├── test_app
+├── tool
+└── users
 
 ## 服务安装、启动
 > vim /etc/supervisord.d/svp-daphne.ini
@@ -79,4 +115,4 @@ supervisorctl svp-daphne start
 ![日志录入](https://github.com/FrankDC/svp/blob/master/static/image/svp/felk.png)
 > 支持行日志和json类型日志
 
-* end
+## end
