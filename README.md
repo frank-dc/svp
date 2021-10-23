@@ -4,8 +4,11 @@
 
 >> 后端
 * Django
-* djangorestframework
+* Django REST framework
 * channels
+* daphne
+* celery
+>> 数据库
 * MySQL
 * redis
 >> 前端
