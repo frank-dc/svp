@@ -1,24 +1,24 @@
 # 仅展示用，提供部分代码，切勿转载使用！！！
-## svp可视化平台
-> 技术栈
-
->> 后端
-* Django
-* Django REST framework
-* channels
-* daphne
-* celery
->> 数据库
-* MySQL
-* redis
->> 前端
-* Layui
-* Django template
-
+## 前言
+此项目是 [old-cmdb](https://github.com/frank-dc/old-cmdb) 迭代项目。
+> 后端
+> * Django
+> * Django REST framework
+> * channels
+> * daphne
+> * celery
+> 
+> 数据库
+> * MySQL
+> * redis
+>
+> 前端
+> * Layui
+> * Django template
+>
 > 目录结构
-
-![目录结构](https://github.com/FrankDC/svp/blob/master/static/image/svp/directory_structure.png)
-
+>
+> ![目录结构](https://github.com/frank-dc/drawpics/blob/main/directory%20structure%20of%20svp.drawio.png)
 ## 服务安装、启动
 > vim /etc/supervisord.d/svp-daphne.ini
 ```
